@@ -12,13 +12,15 @@ I'm a Full Stack Developer focused on building modern and scalable web applicati
 
 🌐 Connect With Me
 
-<p> <a href="https://x.com/sachinkhatri007" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" /> </a> <a href="https://github.com/sachin55551010" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> </a> </p>
+<p> <a href="https://x.com/sachinkhatri007" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" /> </a> <a href="https://github.com/sachin55551010" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/sachin-bansal-69138b286" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a></p>
 
 ## 🛠️ Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,docker" />
 </p>
+
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin55551010&theme=tokyo-night&hide_border=true&area=true" width="100%" />
