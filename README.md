@@ -10,6 +10,10 @@ I'm a Full Stack Developer focused on building modern and scalable web applicati
 ⚡ Building REST APIs & real-time applications
 🚀 Always learning and improving as a developer
 
+🌐 Connect With Me
+
+<p> <a href="https://x.com/sachinkhatri007" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" /> </a> <a href="https://github.com/sachin55551010" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> </a> </p>
+
 ## 🛠️ Skills
 
 <p>
